@@ -1,0 +1,44 @@
+[2025-08-28T07:01:47.578Z] INFO: Launched browser context
+[2025-08-28T07:02:50.114Z] ERROR: ⏱️ Timeout reached — Cloudflare clearance failed
+[2025-08-28T07:02:50.258Z] INFO: 📸 Screenshot saved: Screenshots/cf_timeout_1756364570117.png
+[2025-08-28T07:02:50.259Z] ERROR: Run #1 failed: Cloudflare clearance failed
+[2025-08-28T07:02:51.333Z] INFO: Pushover notification sent
+[2025-08-28T07:02:51.334Z] INFO: Waiting 509s till next run…
+[2025-08-28T07:11:21.071Z] ERROR: Run #2 failed: browserType.launchPersistentContext: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\peter\OneDrive\Desktop\Playwright Projects\pro-automation-ui/playwright-profile --remote-debugging-pipe about:blank
+<launched> pid=29904
+Call log:
+[2m  - <launching> C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\peter\OneDrive\Desktop\Playwright Projects\pro-automation-ui/playwright-profile --remote-debugging-pipe about:blank[22m
+[2m  - <launched> pid=29904[22m
+[2m  - [pid=29904] <gracefully close start>[22m
+[2m  - [pid=29904] <kill>[22m
+[2m  - [pid=29904] <will force kill>[22m
+[2m  - [pid=29904] taskkill stderr: ERROR: The process "29904" not found.[22m
+[2m  - [pid=29904] <process did exit: exitCode=21, signal=null>[22m
+[2m  - [pid=29904] starting temporary directories cleanup[22m
+[2m  - [pid=29904] finished temporary directories cleanup[22m
+[2m  - [pid=29904] <gracefully close end>[22m
+
+[2025-08-28T07:11:22.188Z] INFO: Pushover notification sent
+[2025-08-28T07:11:22.189Z] INFO: Waiting 531s till next run…
+[2025-08-28T07:20:14.353Z] ERROR: Run #3 failed: browserType.launchPersistentContext: Target page, context or browser has been closed
+Browser logs:
+
+<launching> C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\peter\OneDrive\Desktop\Playwright Projects\pro-automation-ui/playwright-profile --remote-debugging-pipe about:blank
+<launched> pid=42872
+Call log:
+[2m  - <launching> C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --disable-blink-features=AutomationControlled --user-data-dir=C:\Users\peter\OneDrive\Desktop\Playwright Projects\pro-automation-ui/playwright-profile --remote-debugging-pipe about:blank[22m
+[2m  - <launched> pid=42872[22m
+[2m  - [pid=42872] <gracefully close start>[22m
+[2m  - [pid=42872] <kill>[22m
+[2m  - [pid=42872] <will force kill>[22m
+[2m  - [pid=42872] taskkill stderr: ERROR: The process "42872" not found.[22m
+[2m  - [pid=42872] <process did exit: exitCode=21, signal=null>[22m
+[2m  - [pid=42872] starting temporary directories cleanup[22m
+[2m  - [pid=42872] finished temporary directories cleanup[22m
+[2m  - [pid=42872] <gracefully close end>[22m
+
+[2025-08-28T07:20:15.155Z] INFO: Pushover notification sent
+[2025-08-28T07:20:15.155Z] ERROR: Max consecutive failures reached, exiting.

@@ -1,0 +1,6 @@
+[2025-08-28T06:46:28.495Z] INFO: Launched browser context
+[2025-08-28T06:47:32.185Z] ERROR: ⏱️ Timed out waiting for Cloudflare clearance
+[2025-08-28T06:47:32.482Z] INFO: 📸 Screenshot saved: Screenshots/cf_timeout_1756363652187.png
+[2025-08-28T06:47:32.484Z] ERROR: Run #1 failed: Cloudflare clearance failed
+[2025-08-28T06:47:33.521Z] INFO: Pushover notification sent
+[2025-08-28T06:47:33.522Z] INFO: Waiting 546s till next run…

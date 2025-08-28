@@ -1,0 +1,10 @@
+[2025-08-27T18:47:27.971Z] INFO: Launched browser context
+[2025-08-27T18:48:30.771Z] ERROR: Timed out waiting for Cloudflare clearance
+[2025-08-27T18:48:30.774Z] ERROR: Run #1 failed: Cloudflare clearance failed
+[2025-08-27T18:48:31.968Z] INFO: Pushover notification sent
+[2025-08-27T18:48:31.970Z] INFO: Waiting 439s till next run…
+[2025-08-27T18:55:51.766Z] INFO: Launched browser context
+[2025-08-27T18:56:54.201Z] ERROR: Timed out waiting for Cloudflare clearance
+[2025-08-27T18:56:54.203Z] ERROR: Run #2 failed: Cloudflare clearance failed
+[2025-08-27T18:56:54.964Z] INFO: Pushover notification sent
+[2025-08-27T18:56:54.979Z] INFO: Waiting 527s till next run…
